@@ -25,3 +25,4 @@ And images:
 
 ========================================
 # PORTFOLIO OF SUBRINA S SEERATTAN
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFBBCC&width=435&lines=Hello!+My+name+is+Subrina+Seerattan;I'm+a+coder+and+designer)](https://git.io/typing-svg)
