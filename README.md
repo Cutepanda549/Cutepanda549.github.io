@@ -27,4 +27,3 @@ And images:
 # PORTFOLIO OF SUBRINA S SEERATTAN
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFBBCC&width=435&lines=Hello!+My+name+is+Subrina+Seerattan;I'm+a+coder+and+designer)](https://git.io/typing-svg)
 `RESUME`
-[![Hello Kitty]([https://rosepng.com/wp-content/uploads/2024/04/s11728_hello_kitty_on_white_background_-v_5-2_a6c11ba8-b370-43ef-ae19-b18b98aa9864-removebg-preview.png)](https://www.pinterest.com/)
